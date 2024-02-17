@@ -3,4 +3,7 @@ NuralNetwork/train.zip
 NuralNetwork/train
 NuralNetwork/test.zip
 NuralNetwork/test
+NuralNetwork/test.csv
+NuralNetwork/train.csv
+NuralNetwork/DataSet_Creation.ipynb
 
