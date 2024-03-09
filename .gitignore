@@ -10,3 +10,7 @@ NuralNetwork/train.csv
 NuralNetwork/bonus_test.csv
 NuralNetwork/DataSet_Creation.ipynb
 OpenCV/volleyball_match.mp4
+CNN/CNN_with_Tim.zip
+CNN/train
+CNN/test
+CNN/taskDesc.txt
