@@ -8,7 +8,7 @@ int main(int argc, char** argv) {
     ros::NodeHandle nh;
     ros::Publisher image_pub = nh.advertise<sensor_msgs::Image>("image", 1);
 
-    std::string image_path = "/home/piyush/Desktop/Project_MANAS/ROS/maps/map_test.png"; // Path to your image file
+    std::string image_path = "ROS2/maps/map_test.png"; // Path to your image file
     cv::Mat image = cv::imread(image_path);
     if (image.empty()) {
         ROS_ERROR("Failed to read image from file");
