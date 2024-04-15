@@ -1,4 +1,4 @@
-image: /home/piyush/Desktop/Project_MANAS/ROS/maps/map_test.png
+image: ROS2/maps/map_test.png
 resolution: 1
 origin: [0.0, 0.0, 0.0]
 occupied_thresh: 0.55

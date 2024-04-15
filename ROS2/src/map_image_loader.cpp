@@ -142,7 +142,7 @@ int main(int argc, char** argv) {
     ros::NodeHandle nh;
 
     // Define path to YAML file
-    std::string yaml_file = "ROS2/map.yaml"; // Provide the path to your YAML file
+    std::string yaml_file = "ROS2/src/map.yaml"; // Provide the path to your YAML file
 
     // Load map from YAML file
     loadMapFromYAML(yaml_file);
